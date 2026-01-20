@@ -11,5 +11,7 @@ global.velv_max = 4;
 // Velocidade inicial da bola
 global.vel_in = 4;
 
+global.vel_inc = .5;
+
 // Definindo a velocidade das raquetes no modo multiplayer
 global.vel_players = 3;

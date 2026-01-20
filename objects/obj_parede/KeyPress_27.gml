@@ -1,2 +1,3 @@
 /// @description VOLTANDO PRO MENU
-game_restart();
+if (room==rm_menu) game_end();
+else game_restart();

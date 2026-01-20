@@ -13,11 +13,3 @@ global.vel_in = 4;
 
 // Definindo a velocidade das raquetes no modo multiplayer
 global.vel_players = 3;
-
-// Player está armado
-global.fun = false;
-
-// Diz se o jogo está com o fundo amarelo do tiro
-global.bullet_time = noone;
-
-global.acertou = noone;
